@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ConcursoCalculoMental"},{"p":"<Unnamed>","l":"PruebaSudoku"},{"p":"<Unnamed>","l":"Sudoku"}];updateSearchResults();
